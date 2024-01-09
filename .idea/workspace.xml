@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0894bbdf-eb10-4ad2-be0e-42129e4bca9e" name="Changes" comment="First Time trying to push project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/harender/ReUsableExcelMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/harender/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/harender/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/harender/ReUsableExcelMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/harender/ReUsableExcelMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
